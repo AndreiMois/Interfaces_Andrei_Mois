@@ -1,0 +1,40 @@
+* {
+    border: thin solid #442A5D;
+}
+
+.enlinea{
+    display: inline;
+    width: 15%;
+}
+
+#negrita{
+    display: block;
+    font-weight: bold;
+}
+
+.enlista{
+    display: list-item;
+    list-style-type: square;
+    margin-left: 2em;
+}
+
+.noseve{
+    display: none;
+}
+
+.bloqueenlinea{
+    display: inline-block;
+    height: 5em;
+    width: 5em;
+}
+
+.table{
+    display: table-cell;
+
+}
+
+.desplazado{
+    position: relative;
+    top: 20%;
+    right: 20%;
+}
